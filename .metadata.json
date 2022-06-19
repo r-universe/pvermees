@@ -1,0 +1,10 @@
+[
+  {
+    "package": "IsoplotR",
+    "oncran": true
+  },
+  {
+    "package": "IsoplotRgui",
+    "oncran": true
+  }
+]
