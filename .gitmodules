@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ArArRedux"]
+	path = ArArRedux
+	url = https://github.com/pvermees/ararredux
+	shallow = true
+	registered = true
 [submodule "IsoplotR"]
 	path = IsoplotR
 	url = https://github.com/pvermees/isoplotr
@@ -11,5 +16,10 @@
 [submodule "IsoplotRgui"]
 	path = IsoplotRgui
 	url = https://github.com/pvermees/isoplotrgui
+	shallow = true
+	registered = true
+[submodule "provenance"]
+	path = provenance
+	url = https://github.com/pvermees/provenance
 	shallow = true
 	registered = true

@@ -1,10 +1,18 @@
 [
   {
+    "package": "ArArRedux",
+    "oncran": true
+  },
+  {
     "package": "IsoplotR",
     "oncran": true
   },
   {
     "package": "IsoplotRgui",
+    "oncran": true
+  },
+  {
+    "package": "provenance",
     "oncran": true
   }
 ]
