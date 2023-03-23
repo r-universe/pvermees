@@ -8,6 +8,11 @@
 	url = https://github.com/pvermees/ararredux
 	shallow = true
 	registered = true
+[submodule "geostats"]
+	path = geostats
+	url = https://github.com/cran/geostats
+	shallow = true
+	registered = true
 [submodule "IsoplotR"]
 	path = IsoplotR
 	url = https://github.com/pvermees/isoplotr
