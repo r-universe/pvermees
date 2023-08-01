@@ -5,15 +5,15 @@
 [submodule "ArArRedux"]
 	path = ArArRedux
 	url = https://github.com/pvermees/ararredux
-[submodule "geostats"]
-	path = geostats
-	url = https://github.com/cran/geostats
 [submodule "IsoplotR"]
 	path = IsoplotR
 	url = https://github.com/pvermees/isoplotr
 [submodule "IsoplotRgui"]
 	path = IsoplotRgui
 	url = https://github.com/pvermees/isoplotrgui
+[submodule "geostats"]
+	path = geostats
+	url = https://github.com/cran/geostats
 [submodule "provenance"]
 	path = provenance
 	url = https://github.com/pvermees/provenance
